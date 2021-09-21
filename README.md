@@ -9,4 +9,4 @@ Interview about my game : https://arrangepoint.com.tr/roportaj/sword-of-destiny-
 
 Video of the project I'm currently working on : https://youtu.be/AHFs2mg0-Yo
 
-Since the project is not finished yet, I will only share the character script : 
+Since the project is not finished yet, I will only share the character script.
